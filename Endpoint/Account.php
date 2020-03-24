@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Deployer\Cloudflare\Endpoint;
+namespace Bostin\CloudflareSDK\Endpoint;
 
 
-use Deployer\Cloudflare\Adapter\AdapterInterface;
-use Deployer\Cloudflare\Auth\AuthInterface;
+use Bostin\CloudflareSDK\Adapter\AdapterInterface;
+use Bostin\CloudflareSDK\Auth\AuthInterface;
 
 /**
  * Class Account

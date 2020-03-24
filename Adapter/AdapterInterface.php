@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Deployer\Cloudflare\Adapter;
+namespace Bostin\CloudflareSDK\Adapter;
 
 /**
  * Interface AdapterInterface

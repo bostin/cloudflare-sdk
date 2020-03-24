@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Deployer\Cloudflare\Auth;
+namespace Bostin\CloudflareSDK\Auth;
 
 /**
  * Class UserService

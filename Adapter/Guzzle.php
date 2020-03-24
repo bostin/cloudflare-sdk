@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Deployer\Cloudflare\Adapter;
+namespace Bostin\CloudflareSDK\Adapter;
 
 use GuzzleHttp\Client;
 use Psr\Http\Message\ResponseInterface;
